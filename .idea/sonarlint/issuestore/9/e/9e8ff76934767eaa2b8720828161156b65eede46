@@ -1,0 +1,413 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(á©øËüÿÿÿÿ8Ä•‹ û1J$081b3e0b-695f-4e92-939d-f2da989067db
+~
+java:S1854";Remove this useless assignment to local variable "unused1".(Ý­¡¯8ÞŽŒ û1J$d647b987-18a9-498a-bb23-7c814a3544e6
+~
+java:S1854";Remove this useless assignment to local variable "unused2".(Ý­¡¯8ÞŽŒ û1J$e632a7b1-9e86-4876-9d5a-2ce4139c16da
+~
+java:S1854";Remove this useless assignment to local variable "unused3".(Ý­¡¯8ÞŽŒ û1J$17c23a41-3ecf-44de-a450-5a2a41ea9e6c
+~
+java:S1854";Remove this useless assignment to local variable "unused4".(Ý­¡¯8ÞŽŒ û1J$376f8a1e-6b82-47a2-a4ed-2eaa5ee27f78
+~
+java:S1854";Remove this useless assignment to local variable "unused5".(Ý­¡¯8ÞŽŒ û1J$562b6bec-978e-419f-96b2-fe54c6a5493e
+~
+java:S1854";Remove this useless assignment to local variable "unused6".(Ý­¡¯8ÞŽŒ û1J$79767162-9735-4af0-b5b0-a49a14421eac
+ƒ
+java:S1854";Remove this useless assignment to local variable "unused7".(ô½ÅÓýÿÿÿÿ8ßŽŒ û1J$d0401c7c-ed80-4033-8f08-67d9a00068a4
+ƒ
+java:S1854";Remove this useless assignment to local variable "unused8".(ô½ÅÓýÿÿÿÿ8ßŽŒ û1J$5fbd262d-20fa-430a-9261-ba711c4a8fbf
+ƒ
+java:S1854";Remove this useless assignment to local variable "unused9".(ô½ÅÓýÿÿÿÿ8ßŽŒ û1J$27393c4f-2311-41e2-83ec-7735e9346729
+„
+java:S1854"<Remove this useless assignment to local variable "unused10".(ô½ÅÓýÿÿÿÿ8ßŽŒ û1J$8beaff98-6ff8-434d-becf-234de3dc718b
+„
+java:S1854"<Remove this useless assignment to local variable "unused11".(ô½ÅÓýÿÿÿÿ8ßŽŒ û1J$7609a634-aa17-4382-b484-e0b31cbe2f4c
+„
+java:S1854"<Remove this useless assignment to local variable "unused12".(ô½ÅÓýÿÿÿÿ8ßŽŒ û1J$d27b7f1a-3cb3-4a3c-9a8d-1632ba65b5a2
+
+java:S1854"<Remove this useless assignment to local variable "unused13".(Àµ›ª8àŽŒ û1J$814bbaba-0934-4151-835f-1f738905b076
+
+java:S1854"<Remove this useless assignment to local variable "unused14".(Àµ›ª8àŽŒ û1J$863353c2-a8f0-43b0-88e7-a9b5dc289195
+
+java:S1854"<Remove this useless assignment to local variable "unused15".(Àµ›ª8àŽŒ û1J$509bf5c6-687a-4829-b144-ebf3528904fd
+
+java:S1854"<Remove this useless assignment to local variable "unused16".(Àµ›ª8àŽŒ û1J$33eb67da-7346-4bb8-80d4-27e8c805d394
+
+java:S1854"<Remove this useless assignment to local variable "unused17".(Àµ›ª8àŽŒ û1J$e00577f9-8744-49ec-8d0c-9b50e7532ff4
+
+java:S1854"<Remove this useless assignment to local variable "unused18".(Àµ›ª8àŽŒ û1J$96023b5c-432f-4f37-88f8-51aa400cccdf
+„
+java:S1854"<Remove this useless assignment to local variable "unused19".(æÍžûÿÿÿÿ8áŽŒ û1J$a4422d04-80ff-4f3c-89ad-f6c3a6481d89
+„
+java:S1854"<Remove this useless assignment to local variable "unused20".(æÍžûÿÿÿÿ8áŽŒ û1J$b9eeda1c-79c7-4a08-95c0-b4001fef367f
+„
+java:S1854"<Remove this useless assignment to local variable "unused21".(æÍžûÿÿÿÿ8áŽŒ û1J$522e4312-c610-4d41-adb2-0866fd4758d3
+„
+java:S1854"<Remove this useless assignment to local variable "unused22".(æÍžûÿÿÿÿ8áŽŒ û1J$028fb589-6dba-450e-bdfa-2e456379be21
+„
+java:S1854"<Remove this useless assignment to local variable "unused23".(æÍžûÿÿÿÿ8áŽŒ û1J$f178c6dd-b8fe-4940-8d90-08b3670b4ded
+„
+java:S1854"<Remove this useless assignment to local variable "unused24".(æÍžûÿÿÿÿ8áŽŒ û1J$f9f85a19-8887-4321-a2b0-dc65e8357942
+„
+java:S1854 "<Remove this useless assignment to local variable "unused25".(Õ¤ƒšüÿÿÿÿ8áŽŒ û1J$af87a5a7-6309-476d-9677-e862f99af626
+„
+java:S1854 "<Remove this useless assignment to local variable "unused26".(Õ¤ƒšüÿÿÿÿ8âŽŒ û1J$971b8a0c-2379-400f-979c-5f72feee32da
+„
+java:S1854 "<Remove this useless assignment to local variable "unused27".(Õ¤ƒšüÿÿÿÿ8âŽŒ û1J$65201ba9-90d6-452d-a21e-2584557d16dd
+„
+java:S1854 "<Remove this useless assignment to local variable "unused28".(Õ¤ƒšüÿÿÿÿ8âŽŒ û1J$69278a5b-86cc-4b74-b8d0-8aa0a11e5d12
+„
+java:S1854 "<Remove this useless assignment to local variable "unused29".(Õ¤ƒšüÿÿÿÿ8âŽŒ û1J$e1e4d95d-b6b5-4431-a206-dac450839ebc
+„
+java:S1854 "<Remove this useless assignment to local variable "unused30".(Õ¤ƒšüÿÿÿÿ8âŽŒ û1J$d79b0d9f-29c7-49db-94db-cf1660952bfb
+„
+java:S1854!"<Remove this useless assignment to local variable "unused31".(äÊÂžûÿÿÿÿ8âŽŒ û1J$01d1d87a-5ad8-412c-8b55-73e1caf4f33d
+„
+java:S1854!"<Remove this useless assignment to local variable "unused32".(äÊÂžûÿÿÿÿ8âŽŒ û1J$a8f0325e-431c-4c3a-91f2-cf5dc74a2cc0
+„
+java:S1854!"<Remove this useless assignment to local variable "unused33".(äÊÂžûÿÿÿÿ8âŽŒ û1J$943438fd-c58e-4f34-90a5-d5f39ccedf29
+„
+java:S1854!"<Remove this useless assignment to local variable "unused34".(äÊÂžûÿÿÿÿ8ãŽŒ û1J$93893d15-aed6-41b7-8286-f6e0b669267d
+„
+java:S1854!"<Remove this useless assignment to local variable "unused35".(äÊÂžûÿÿÿÿ8ãŽŒ û1J$210d0cad-b19c-4210-a5cd-b069c393ad77
+„
+java:S1854!"<Remove this useless assignment to local variable "unused36".(äÊÂžûÿÿÿÿ8ãŽŒ û1J$bbc2db03-882d-44fb-b0d9-a2293250319f
+~
+java:S1854""<Remove this useless assignment to local variable "unused37".(¡¾¼78ãŽŒ û1J$0823afbf-319e-4e48-a885-853c004b4177
+~
+java:S1854""<Remove this useless assignment to local variable "unused38".(¡¾¼78ãŽŒ û1J$6e8103d3-acf4-4434-ba7b-1f2ecf230d6b
+~
+java:S1854""<Remove this useless assignment to local variable "unused39".(¡¾¼78ãŽŒ û1J$2f2bae8e-6843-470a-bae0-e20835f492b3
+~
+java:S1854""<Remove this useless assignment to local variable "unused40".(¡¾¼78ãŽŒ û1J$4dffdbec-d263-4ea9-a8f2-4af0d4ae2645
+~
+java:S1854""<Remove this useless assignment to local variable "unused41".(¡¾¼78ãŽŒ û1J$f3a80885-250b-4d1c-b08e-251729d214a0
+~
+java:S1854""<Remove this useless assignment to local variable "unused42".(¡¾¼78ãŽŒ û1J$e9c5e361-43d7-42d9-abd7-4a91e0a704cd
+„
+java:S1854#"<Remove this useless assignment to local variable "unused43".(–Æàñÿÿÿÿÿ8äŽŒ û1J$8ebc68c1-0ee7-4121-8a53-5c6de2012614
+„
+java:S1854#"<Remove this useless assignment to local variable "unused44".(–Æàñÿÿÿÿÿ8äŽŒ û1J$dc9656eb-2acb-4642-bad4-c354a8751038
+„
+java:S1854#"<Remove this useless assignment to local variable "unused45".(–Æàñÿÿÿÿÿ8äŽŒ û1J$191257de-f809-46c5-a180-b023e3869ebc
+„
+java:S1854#"<Remove this useless assignment to local variable "unused46".(–Æàñÿÿÿÿÿ8äŽŒ û1J$b1853c20-f106-45a0-a162-7b08ada4b7e0
+„
+java:S1854#"<Remove this useless assignment to local variable "unused47".(–Æàñÿÿÿÿÿ8äŽŒ û1J$c0a9fabd-af4c-40ad-bb3c-fb35963fd6fd
+„
+java:S1854#"<Remove this useless assignment to local variable "unused48".(–Æàñÿÿÿÿÿ8äŽŒ û1J$9e67c2e4-7575-43a5-a757-e3c53f554e73
+„
+java:S1854$"<Remove this useless assignment to local variable "unused49".(¬ÞÇþÿÿÿÿÿ8äŽŒ û1J$c5f0fd11-b7b9-4523-8073-4aad5cf46df5
+„
+java:S1854$"<Remove this useless assignment to local variable "unused50".(¬ÞÇþÿÿÿÿÿ8äŽŒ û1J$c9fa321b-ab1f-4c9c-9b89-c235df4d4f72
+„
+java:S1854$"<Remove this useless assignment to local variable "unused51".(¬ÞÇþÿÿÿÿÿ8äŽŒ û1J$2856fd01-188f-4724-8ae1-453562e2bee3
+„
+java:S1854$"<Remove this useless assignment to local variable "unused52".(¬ÞÇþÿÿÿÿÿ8äŽŒ û1J$eeaccd75-f072-467f-be40-724763ffe375
+„
+java:S1854$"<Remove this useless assignment to local variable "unused53".(¬ÞÇþÿÿÿÿÿ8åŽŒ û1J$40817272-ec7e-431c-b285-c6cb49202ec6
+„
+java:S1854$"<Remove this useless assignment to local variable "unused54".(¬ÞÇþÿÿÿÿÿ8åŽŒ û1J$edb6ac2c-bf42-4d3e-a804-63854ebec49a
+
+java:S1854%"<Remove this useless assignment to local variable "unused55".(ÑïÞß8åŽŒ û1J$10ba4911-333b-4707-835a-bf65ff6be01a
+
+java:S1854%"<Remove this useless assignment to local variable "unused56".(ÑïÞß8åŽŒ û1J$5b1fb42a-495d-4bd6-a8b1-8d407647dab7
+
+java:S1854%"<Remove this useless assignment to local variable "unused57".(ÑïÞß8åŽŒ û1J$ab1907fa-10ee-45a9-b85d-f3a3a8294be5
+
+java:S1854%"<Remove this useless assignment to local variable "unused58".(ÑïÞß8åŽŒ û1J$7c655a8d-b5f9-4738-bc0e-29f5cd8cce1b
+
+java:S1854%"<Remove this useless assignment to local variable "unused59".(ÑïÞß8åŽŒ û1J$ef27eed4-851e-43f2-aad6-70738715684c
+
+java:S1854%"<Remove this useless assignment to local variable "unused60".(ÑïÞß8åŽŒ û1J$4c3edb96-f4ed-4cec-8c6b-afe3630612c0
+
+java:S1854&"<Remove this useless assignment to local variable "unused61".(ŠÉ«Ù8åŽŒ û1J$82ffe2f2-6794-4a0a-adcb-f691d61f68e4
+
+java:S1854&"<Remove this useless assignment to local variable "unused62".(ŠÉ«Ù8åŽŒ û1J$10ce2d78-e62f-49f2-a45c-41405082d259
+
+java:S1854&"<Remove this useless assignment to local variable "unused63".(ŠÉ«Ù8æŽŒ û1J$60d9c13c-b30c-4f2a-b3a3-049b5ca3a690
+
+java:S1854&"<Remove this useless assignment to local variable "unused64".(ŠÉ«Ù8æŽŒ û1J$94dc34dc-d835-4b08-ae23-8607410eb631
+
+java:S1854&"<Remove this useless assignment to local variable "unused65".(ŠÉ«Ù8æŽŒ û1J$e94b02f3-53c5-4b9d-820f-9ef270043894
+
+java:S1854&"<Remove this useless assignment to local variable "unused66".(ŠÉ«Ù8æŽŒ û1J$3e79ae5d-a483-403b-afa0-f7bc71d43a54
+„
+java:S1854'"<Remove this useless assignment to local variable "unused67".(Û ¬Éÿÿÿÿÿ8æŽŒ û1J$1372087c-fa82-4fdd-9ede-72713ebad7b0
+„
+java:S1854'"<Remove this useless assignment to local variable "unused68".(Û ¬Éÿÿÿÿÿ8æŽŒ û1J$4a045ee6-ef32-4b4f-b257-0fd5681f5519
+„
+java:S1854'"<Remove this useless assignment to local variable "unused69".(Û ¬Éÿÿÿÿÿ8æŽŒ û1J$7a93285e-68b0-4e80-ba9e-59fa92bb54b1
+„
+java:S1854'"<Remove this useless assignment to local variable "unused70".(Û ¬Éÿÿÿÿÿ8æŽŒ û1J$ed077e73-11e2-4a77-8829-87fa7d9c23e5
+„
+java:S1854'"<Remove this useless assignment to local variable "unused71".(Û ¬Éÿÿÿÿÿ8æŽŒ û1J$db4306e9-8ff0-41fc-80ff-64eb1ebc940f
+„
+java:S1854'"<Remove this useless assignment to local variable "unused72".(Û ¬Éÿÿÿÿÿ8çŽŒ û1J$6f071ff1-2105-4cbc-936a-69c6036ff8d2
+
+java:S1854("<Remove this useless assignment to local variable "unused73".(ÿÅ¡Û8çŽŒ û1J$725a710e-fb8a-4e01-a6bc-4db805db145e
+
+java:S1854("<Remove this useless assignment to local variable "unused74".(ÿÅ¡Û8çŽŒ û1J$1b88444a-04c1-4ec0-8fd4-a8c00f939764
+
+java:S1854("<Remove this useless assignment to local variable "unused75".(ÿÅ¡Û8çŽŒ û1J$c0b06cb2-c4b0-4c11-846e-af965c56d694
+
+java:S1854("<Remove this useless assignment to local variable "unused76".(ÿÅ¡Û8çŽŒ û1J$bae2cc6c-3406-4e58-a8bf-10eb460a2d9f
+
+java:S1854("<Remove this useless assignment to local variable "unused77".(ÿÅ¡Û8çŽŒ û1J$cf20ec0d-2c13-40c8-948c-fc65b407cb62
+
+java:S1854("<Remove this useless assignment to local variable "unused78".(ÿÅ¡Û8çŽŒ û1J$df680033-862c-4f87-a68a-ffe5558ba25f
+
+java:S1854)"<Remove this useless assignment to local variable "unused79".(Øë˜Š8çŽŒ û1J$4ccb4cc4-d235-43d4-8ba0-1e30e2fdf128
+
+java:S1854)"<Remove this useless assignment to local variable "unused80".(Øë˜Š8çŽŒ û1J$3e66ccc3-ca09-443d-a916-837df02b4d92
+
+java:S1854)"<Remove this useless assignment to local variable "unused81".(Øë˜Š8çŽŒ û1J$4b0be559-ab3a-454b-a814-42be193982f0
+
+java:S1854)"<Remove this useless assignment to local variable "unused82".(Øë˜Š8çŽŒ û1J$0a1ceb30-da5d-4e5a-9cea-dd29d26ae1fd
+
+java:S1854)"<Remove this useless assignment to local variable "unused83".(Øë˜Š8çŽŒ û1J$4b4541cc-23ca-427d-a6a9-9aa9c73fe5bd
+
+java:S1854)"<Remove this useless assignment to local variable "unused84".(Øë˜Š8èŽŒ û1J$7e5ba775-77f4-4932-bbec-54e092c9bf9c
+„
+java:S1854*"<Remove this useless assignment to local variable "unused85".(©½öþÿÿÿÿ8èŽŒ û1J$81bfb1da-962b-4c34-bb23-ffbf647bf28e
+„
+java:S1854*"<Remove this useless assignment to local variable "unused86".(©½öþÿÿÿÿ8èŽŒ û1J$94522805-4980-4ddb-93e5-470959f00554
+„
+java:S1854*"<Remove this useless assignment to local variable "unused87".(©½öþÿÿÿÿ8èŽŒ û1J$e6d17c9f-d366-4696-b064-6db2f909f6c7
+„
+java:S1854*"<Remove this useless assignment to local variable "unused88".(©½öþÿÿÿÿ8èŽŒ û1J$5d0f25f1-5f6d-4f16-bc1b-51f2178b061d
+„
+java:S1854*"<Remove this useless assignment to local variable "unused89".(©½öþÿÿÿÿ8èŽŒ û1J$c66a71fc-a22f-4e66-8adf-2ee407b19bbc
+„
+java:S1854*"<Remove this useless assignment to local variable "unused90".(©½öþÿÿÿÿ8èŽŒ û1J$28f00636-1636-41ba-9b95-8da2ea0d3fdc
+„
+java:S1854+"<Remove this useless assignment to local variable "unused91".(¥ŒÙýÿÿÿÿ8èŽŒ û1J$8d63a22d-57bb-4049-8abc-410f675454bc
+„
+java:S1854+"<Remove this useless assignment to local variable "unused92".(¥ŒÙýÿÿÿÿ8èŽŒ û1J$7acde2d6-00aa-4f3c-8d93-1f85677a0fb8
+„
+java:S1854+"<Remove this useless assignment to local variable "unused93".(¥ŒÙýÿÿÿÿ8èŽŒ û1J$1504b045-a608-487e-a06f-e235b964efe7
+„
+java:S1854+"<Remove this useless assignment to local variable "unused94".(¥ŒÙýÿÿÿÿ8èŽŒ û1J$046d53a7-ae15-4287-8f4c-d2cbb63f489b
+„
+java:S1854+"<Remove this useless assignment to local variable "unused95".(¥ŒÙýÿÿÿÿ8èŽŒ û1J$1b3e2740-83d7-4c5e-9c1f-db53e16fe4da
+„
+java:S1854+"<Remove this useless assignment to local variable "unused96".(¥ŒÙýÿÿÿÿ8èŽŒ û1J$63c5ae23-3363-4aad-8e14-48fec4038133
+„
+java:S1854,"<Remove this useless assignment to local variable "unused97".(—æŒ©øÿÿÿÿ8éŽŒ û1J$0474f1f4-e0f8-4283-89c8-266a5be1476c
+„
+java:S1854,"<Remove this useless assignment to local variable "unused98".(—æŒ©øÿÿÿÿ8éŽŒ û1J$6a0fb3f7-9ed0-446f-a4b5-c93a2cecf65e
+„
+java:S1854,"<Remove this useless assignment to local variable "unused99".(—æŒ©øÿÿÿÿ8éŽŒ û1J$5c9cc948-4f46-46f6-a0c7-df02ecd405b1
+…
+java:S1854,"=Remove this useless assignment to local variable "unused100".(—æŒ©øÿÿÿÿ8éŽŒ û1J$ff1f3f02-f201-43b7-a13e-140edb62a58e
+‡
+java:S1659"DDeclare "unused2" and all following declarations on a separate line.(‘ÅÒ…8ïŽŒ û1J$e24f2dde-3799-4ca0-b377-98312bf03198
+o
+java:S1481",Remove this unused "unused1" local variable.(‘ÅÒ…8ðŽŒ û1J$21f39de2-55ca-4a53-b76b-6d9e77498305
+o
+java:S1481",Remove this unused "unused2" local variable.(‘ÅÒ…8ðŽŒ û1J$33eda87f-41e6-4fd5-bd32-14c40b584f15
+o
+java:S1481",Remove this unused "unused3" local variable.(‘ÅÒ…8ðŽŒ û1J$6fcd452e-8726-4807-8a4e-2106d9e62447
+o
+java:S1481",Remove this unused "unused4" local variable.(‘ÅÒ…8ñŽŒ û1J$dfb9611f-812d-43fa-b702-f0337af24506
+o
+java:S1481",Remove this unused "unused5" local variable.(‘ÅÒ…8ñŽŒ û1J$42b2a3f9-7f3c-440b-9dcd-be374c977240
+o
+java:S1481",Remove this unused "unused6" local variable.(‘ÅÒ…8ñŽŒ û1J$6c9b2069-5e02-45ca-a40e-56744766a27d
+o
+java:S1481",Remove this unused "unused7" local variable.(‘ÅÒ…8ñŽŒ û1J$6c828e7b-c105-4de0-8f23-6c3f819db4f0
+o
+java:S1481",Remove this unused "unused8" local variable.(œ«÷×8ñŽŒ û1J$08c75046-3171-44f2-9429-023500c41fa3
+o
+java:S1481",Remove this unused "unused9" local variable.(œ«÷×8ñŽŒ û1J$bf816ccc-2c11-4cd4-b0bc-858314afd0fd
+p
+java:S1481"-Remove this unused "unused10" local variable.(œ«÷×8ñŽŒ û1J$d66f2dd2-a2f7-4e03-9e3a-764478ae0d03
+p
+java:S1481"-Remove this unused "unused11" local variable.(œ«÷×8òŽŒ û1J$a6c533b4-bc47-46f3-a822-6503c2a969ae
+p
+java:S1481"-Remove this unused "unused12" local variable.(œ«÷×8òŽŒ û1J$5dc065da-595f-4e7b-889d-28432162a984
+p
+java:S1481"-Remove this unused "unused13" local variable.(œ«÷×8òŽŒ û1J$6b39a0a5-43d6-4c85-b595-c6aaae4522e0
+p
+java:S1481	"-Remove this unused "unused14" local variable.(âõ¿8òŽŒ û1J$ee7259ef-5bba-4acd-9740-a7d92935182f
+p
+java:S1481	"-Remove this unused "unused15" local variable.(âõ¿8òŽŒ û1J$64efe73a-56c0-435d-bd26-b30bee7a81b1
+p
+java:S1481	"-Remove this unused "unused16" local variable.(âõ¿8òŽŒ û1J$e22d92ef-b29b-4c4c-98e1-5e72af284d57
+p
+java:S1481	"-Remove this unused "unused17" local variable.(âõ¿8óŽŒ û1J$ddafba2a-9af7-408c-a38a-97eba54dd3cf
+p
+java:S1481	"-Remove this unused "unused18" local variable.(âõ¿8óŽŒ û1J$69a1aeb6-dd77-4a00-8795-c8600c6968ea
+p
+java:S1481	"-Remove this unused "unused19" local variable.(âõ¿8óŽŒ û1J$30acd148-b740-45a4-bdb9-11a2311b9db6
+p
+java:S1481
+"-Remove this unused "unused20" local variable.(Á¬¿8óŽŒ û1J$c95b44d2-395e-49a1-add7-b07b92671306
+p
+java:S1481
+"-Remove this unused "unused21" local variable.(Á¬¿8óŽŒ û1J$9c7ac154-3dab-4408-b5f0-fd5f19b8910a
+p
+java:S1481
+"-Remove this unused "unused22" local variable.(Á¬¿8óŽŒ û1J$1f9f2398-e8d4-498a-b478-18f37d23445e
+p
+java:S1481
+"-Remove this unused "unused23" local variable.(Á¬¿8óŽŒ û1J$d50950e0-8a2e-4dde-ab40-d2d5cfb2d82d
+p
+java:S1481
+"-Remove this unused "unused24" local variable.(Á¬¿8ôŽŒ û1J$fa7f4d0f-6dad-49db-beb3-a315a6857a64
+p
+java:S1481
+"-Remove this unused "unused25" local variable.(Á¬¿8ôŽŒ û1J$edc4dd7f-b3e4-4740-bda3-9828db4e48a5
+u
+java:S1481"-Remove this unused "unused26" local variable.(òØôïûÿÿÿÿ8ôŽŒ û1J$0c3855d1-e1ef-4217-9192-de8f739cd25b
+u
+java:S1481"-Remove this unused "unused27" local variable.(òØôïûÿÿÿÿ8ôŽŒ û1J$5e035746-364d-4599-93c4-896c28db54a3
+u
+java:S1481"-Remove this unused "unused28" local variable.(òØôïûÿÿÿÿ8ôŽŒ û1J$5228c5ab-d350-45b3-8488-d58e0bb809c8
+u
+java:S1481"-Remove this unused "unused29" local variable.(òØôïûÿÿÿÿ8ôŽŒ û1J$080a38d2-290a-4df7-9b16-74683da30cba
+u
+java:S1481"-Remove this unused "unused30" local variable.(òØôïûÿÿÿÿ8ôŽŒ û1J$36c5c347-148e-43fd-96bd-2c580c519f7b
+u
+java:S1481"-Remove this unused "unused31" local variable.(òØôïûÿÿÿÿ8ôŽŒ û1J$edbc111d-a11d-4167-89a3-de4b4c6fed6f
+u
+java:S1481"-Remove this unused "unused32" local variable.(ð—Ò¸ùÿÿÿÿ8õŽŒ û1J$21ece0b5-1c12-4845-a8e6-bdc0ddc5d3d9
+u
+java:S1481"-Remove this unused "unused33" local variable.(ð—Ò¸ùÿÿÿÿ8õŽŒ û1J$eb5d9548-12db-4bff-8735-ac0415bf3144
+u
+java:S1481"-Remove this unused "unused34" local variable.(ð—Ò¸ùÿÿÿÿ8õŽŒ û1J$0d388e70-f8ef-4128-aeeb-84b0bd5ea3ff
+u
+java:S1481"-Remove this unused "unused35" local variable.(ð—Ò¸ùÿÿÿÿ8õŽŒ û1J$355d6867-ae96-41a1-b475-2e2bb2e470b1
+u
+java:S1481"-Remove this unused "unused36" local variable.(ð—Ò¸ùÿÿÿÿ8õŽŒ û1J$060c07be-6ff1-47b8-b801-db401200ce7c
+u
+java:S1481"-Remove this unused "unused37" local variable.(ð—Ò¸ùÿÿÿÿ8õŽŒ û1J$c37b4602-ada0-4109-aca5-b3570e587215
+u
+java:S1481"-Remove this unused "unused38" local variable.(—ŠÇ¦úÿÿÿÿ8õŽŒ û1J$86d53dc2-6396-4f07-a9c6-0fad4524ce78
+u
+java:S1481"-Remove this unused "unused39" local variable.(—ŠÇ¦úÿÿÿÿ8õŽŒ û1J$61b70c01-e18e-491d-a105-b5362018e565
+u
+java:S1481"-Remove this unused "unused40" local variable.(—ŠÇ¦úÿÿÿÿ8öŽŒ û1J$1c3cdb7a-226e-4105-b4f4-ebbbaf1e8876
+u
+java:S1481"-Remove this unused "unused41" local variable.(—ŠÇ¦úÿÿÿÿ8öŽŒ û1J$81f32054-699f-46b9-94d8-05c88ebc99d7
+u
+java:S1481"-Remove this unused "unused42" local variable.(—ŠÇ¦úÿÿÿÿ8öŽŒ û1J$6973e360-9035-4401-ba07-0ad41fdea537
+u
+java:S1481"-Remove this unused "unused43" local variable.(—ŠÇ¦úÿÿÿÿ8öŽŒ û1J$5f3e347d-d7c0-417e-80f5-241445933c47
+u
+java:S1481"-Remove this unused "unused44" local variable.(Ö£ÖÄýÿÿÿÿ8öŽŒ û1J$3a29fb79-4ebb-4a02-9fe9-c3a4e1287d1a
+u
+java:S1481"-Remove this unused "unused45" local variable.(Ö£ÖÄýÿÿÿÿ8öŽŒ û1J$0ae09599-a871-4fdd-9488-faf8924bec8c
+u
+java:S1481"-Remove this unused "unused46" local variable.(Ö£ÖÄýÿÿÿÿ8öŽŒ û1J$02c57611-3d57-46b2-8fd5-3f21fdb5b940
+u
+java:S1481"-Remove this unused "unused47" local variable.(Ö£ÖÄýÿÿÿÿ8öŽŒ û1J$83d9e0e7-f573-4454-a38e-b477d1f03d3f
+u
+java:S1481"-Remove this unused "unused48" local variable.(Ö£ÖÄýÿÿÿÿ8öŽŒ û1J$9111e452-a97f-431a-b3f0-b290eb9298ae
+u
+java:S1481"-Remove this unused "unused49" local variable.(Ö£ÖÄýÿÿÿÿ8÷ŽŒ û1J$7298b37b-b2ef-4dd5-b876-d11d0a3135c1
+u
+java:S1481"-Remove this unused "unused50" local variable.(î·½°þÿÿÿÿ8÷ŽŒ û1J$c62b7c37-aab3-4b6c-8614-2364ad1740d6
+u
+java:S1481"-Remove this unused "unused51" local variable.(î·½°þÿÿÿÿ8÷ŽŒ û1J$bfd6e840-aec6-4db3-9fa8-54cc6d366307
+u
+java:S1481"-Remove this unused "unused52" local variable.(î·½°þÿÿÿÿ8÷ŽŒ û1J$37567312-fffb-4102-9138-6436e7b5c41e
+u
+java:S1481"-Remove this unused "unused53" local variable.(î·½°þÿÿÿÿ8÷ŽŒ û1J$fb121219-38a2-427f-a83b-21ff7dbc372e
+u
+java:S1481"-Remove this unused "unused54" local variable.(î·½°þÿÿÿÿ8÷ŽŒ û1J$026a08ad-27fd-4dc1-a555-889f1ab34cac
+u
+java:S1481"-Remove this unused "unused55" local variable.(î·½°þÿÿÿÿ8÷ŽŒ û1J$ee3e9bbc-2fc5-470a-ba0e-b3c6a6b6fe37
+u
+java:S1481"-Remove this unused "unused56" local variable.(ýâÐ°üÿÿÿÿ8÷ŽŒ û1J$a4f21e09-588f-4920-9df5-b4f7ea6b2b30
+u
+java:S1481"-Remove this unused "unused57" local variable.(ýâÐ°üÿÿÿÿ8øŽŒ û1J$9f080e11-ad11-4858-a669-5597c69a455e
+u
+java:S1481"-Remove this unused "unused58" local variable.(ýâÐ°üÿÿÿÿ8øŽŒ û1J$91a699b6-56c7-404e-96b6-ad0dfa45997e
+u
+java:S1481"-Remove this unused "unused59" local variable.(ýâÐ°üÿÿÿÿ8øŽŒ û1J$21291864-f2e1-4c0b-af03-224b4f19b5fd
+u
+java:S1481"-Remove this unused "unused60" local variable.(ýâÐ°üÿÿÿÿ8øŽŒ û1J$feb105b4-0769-4da0-8544-49da4c3040b4
+u
+java:S1481"-Remove this unused "unused61" local variable.(ýâÐ°üÿÿÿÿ8øŽŒ û1J$9f840c0f-478a-4c47-b59e-ef976257ce5a
+u
+java:S1481"-Remove this unused "unused62" local variable.(¢Ô„¾ýÿÿÿÿ8øŽŒ û1J$a72aa53f-e92d-4cc2-9800-649ce9618f1d
+u
+java:S1481"-Remove this unused "unused63" local variable.(¢Ô„¾ýÿÿÿÿ8øŽŒ û1J$04a8c7ae-5b24-4425-930e-1896ab641b6a
+u
+java:S1481"-Remove this unused "unused64" local variable.(¢Ô„¾ýÿÿÿÿ8øŽŒ û1J$72584aa6-94d9-48c2-a8bc-f422acda8353
+u
+java:S1481"-Remove this unused "unused65" local variable.(¢Ô„¾ýÿÿÿÿ8øŽŒ û1J$1ad58e09-83db-4b49-9640-5a1cea8f3017
+u
+java:S1481"-Remove this unused "unused66" local variable.(¢Ô„¾ýÿÿÿÿ8ùŽŒ û1J$0ef0c238-4180-451f-81c6-30e46efab732
+u
+java:S1481"-Remove this unused "unused67" local variable.(¢Ô„¾ýÿÿÿÿ8ùŽŒ û1J$9c668417-3557-4f2c-9a76-5c6d5d8f5574
+p
+java:S1481"-Remove this unused "unused68" local variable.(§Î…±8ùŽŒ û1J$61d8077f-fd19-40e1-8a5b-f53db01524a1
+p
+java:S1481"-Remove this unused "unused69" local variable.(§Î…±8ùŽŒ û1J$de33a201-a68d-43de-b2e5-c9afaf77dac8
+p
+java:S1481"-Remove this unused "unused70" local variable.(§Î…±8ùŽŒ û1J$b7c7da14-7103-48a7-be4f-397aa98c14af
+p
+java:S1481"-Remove this unused "unused71" local variable.(§Î…±8ùŽŒ û1J$3f834a3b-3724-48c5-8ff3-c7e33f037265
+p
+java:S1481"-Remove this unused "unused72" local variable.(§Î…±8ùŽŒ û1J$6a1832bd-ec75-4228-91d3-b143807532e9
+p
+java:S1481"-Remove this unused "unused73" local variable.(§Î…±8ùŽŒ û1J$2edd2cbd-8c66-4960-8209-7901b962c01f
+p
+java:S1481"-Remove this unused "unused74" local variable.(¸¶Õ8ùŽŒ û1J$ca2479ff-a79d-4a09-a78b-e439f6965956
+p
+java:S1481"-Remove this unused "unused75" local variable.(¸¶Õ8úŽŒ û1J$057edd79-34aa-4dab-b827-fb59daff3ea9
+p
+java:S1481"-Remove this unused "unused76" local variable.(¸¶Õ8úŽŒ û1J$0cf48ae9-4c9a-4f4d-a8d3-911771925f35
+p
+java:S1481"-Remove this unused "unused77" local variable.(¸¶Õ8úŽŒ û1J$658ba881-95dc-4893-aca7-02ec6aa70ee0
+p
+java:S1481"-Remove this unused "unused78" local variable.(¸¶Õ8úŽŒ û1J$795a1bf2-b7ca-4e94-bbb2-4acbe311c018
+p
+java:S1481"-Remove this unused "unused79" local variable.(¸¶Õ8úŽŒ û1J$a85f61f0-cd9e-4d31-b69b-cce7bed97696
+u
+java:S1481"-Remove this unused "unused80" local variable.(„ íÁüÿÿÿÿ8úŽŒ û1J$3f4a1cd5-c540-48e0-bb01-8a909873db42
+u
+java:S1481"-Remove this unused "unused81" local variable.(„ íÁüÿÿÿÿ8úŽŒ û1J$e68af068-0adf-4af4-9658-1d2ae2849052
+u
+java:S1481"-Remove this unused "unused82" local variable.(„ íÁüÿÿÿÿ8úŽŒ û1J$7d062c8b-f241-4495-bfda-18acef7a0a3a
+u
+java:S1481"-Remove this unused "unused83" local variable.(„ íÁüÿÿÿÿ8úŽŒ û1J$b1c91886-17b7-455b-9d23-e16e0ed71fbb
+u
+java:S1481"-Remove this unused "unused84" local variable.(„ íÁüÿÿÿÿ8ûŽŒ û1J$4714c51c-479a-4851-98ec-d90cec1cc28c
+u
+java:S1481"-Remove this unused "unused85" local variable.(„ íÁüÿÿÿÿ8ûŽŒ û1J$959a7ea5-bbea-4ba1-9433-f19145c1ac1f
+u
+java:S1481"-Remove this unused "unused86" local variable.(‹€ƒžþÿÿÿÿ8ûŽŒ û1J$79165eed-0893-446e-8f05-2e21dba5d718
+u
+java:S1481"-Remove this unused "unused87" local variable.(‹€ƒžþÿÿÿÿ8ûŽŒ û1J$f9e7e22f-6f81-4183-add1-72674e6b7249
+u
+java:S1481"-Remove this unused "unused88" local variable.(‹€ƒžþÿÿÿÿ8ûŽŒ û1J$64315a60-92e8-4d1d-81e5-ccc4f4f51630
+u
+java:S1481"-Remove this unused "unused89" local variable.(‹€ƒžþÿÿÿÿ8ûŽŒ û1J$6575e585-018d-46ef-b33e-78b5ec728e20
+u
+java:S1481"-Remove this unused "unused90" local variable.(‹€ƒžþÿÿÿÿ8ûŽŒ û1J$63eba306-9211-46b1-900f-d2f026515de7
+u
+java:S1481"-Remove this unused "unused91" local variable.(‹€ƒžþÿÿÿÿ8ûŽŒ û1J$6018e81d-ae6f-4b1a-b435-bf64855642a4
+p
+java:S1481"-Remove this unused "unused92" local variable.(æ÷Ë´8ûŽŒ û1J$076340f2-5b0d-470f-9952-e42392f4ca07
+p
+java:S1481"-Remove this unused "unused93" local variable.(æ÷Ë´8üŽŒ û1J$25a538d2-4c88-452a-9abb-9afd92bb0a12
+p
+java:S1481"-Remove this unused "unused94" local variable.(æ÷Ë´8üŽŒ û1J$bad89682-43f8-4041-98c7-800296e1e319
+p
+java:S1481"-Remove this unused "unused95" local variable.(æ÷Ë´8üŽŒ û1J$cffdd0c5-e53b-4c7e-96bf-d630490824d1
+p
+java:S1481"-Remove this unused "unused96" local variable.(æ÷Ë´8üŽŒ û1J$51fc9659-3ab4-42c2-b5a4-783122e7bdd5
+p
+java:S1481"-Remove this unused "unused97" local variable.(æ÷Ë´8üŽŒ û1J$b9cd95fe-f4e8-48de-be65-ea2aab1cb3ae
+u
+java:S1481"-Remove this unused "unused98" local variable.(´ÍÇÙþÿÿÿÿ8üŽŒ û1J$55345b54-94cd-4a76-8eb9-70d2788cf14a
+u
+java:S1481"-Remove this unused "unused99" local variable.(´ÍÇÙþÿÿÿÿ8üŽŒ û1J$ce74068b-41ed-4223-9ca9-ac9946723712
+v
+java:S1481".Remove this unused "unused100" local variable.(´ÍÇÙþÿÿÿÿ8üŽŒ û1J$b72d7bd0-27f5-4b40-b1ed-5a7e935b822e
+i
+java:S11812"!Catch Exception instead of Error.(©¢Èäøÿÿÿÿ8‚Œ û1J$912d1e1c-7c09-432f-8741-1c6bb0edf520
+r	java:S1063"+Replace this use of System.out by a logger.(‚ùûÑúÿÿÿÿ8ƒŒ û1J$eac8ee42-2413-4748-928f-c509fca1f5c0
