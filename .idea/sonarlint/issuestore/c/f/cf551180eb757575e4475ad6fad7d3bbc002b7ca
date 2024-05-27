@@ -1,7 +1,7 @@
 
-”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¤Ùñšøÿÿÿÿ8÷³Ù¡û1J$2dcfd57d-28e0-4bb3-880e-3d71904465ff
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¤Ùñšøÿÿÿÿ8÷³Ù¡û1J$dc4c84f0-8fe1-4e85-9cc6-7658bf42fb3a
 „
-java:S4973"<Strings and Boxed types should be compared using "equals()".(ÿ¬üòýÿÿÿÿ8ü³Ù¡û1J$b8d1d289-acd7-4647-9e3c-4f16e9e0e4cf
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ÿ¬üòýÿÿÿÿ8ü³Ù¡û1J$4275a034-e440-4ac3-b50b-7ef504de1790
 §
-java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì­ŠÜúÿÿÿÿ8ƒ´Ù¡û1J$be5a3627-deee-4150-89a7-9433bfa91b88
-r	java:S106"+Replace this use of System.out by a logger.(ÿ¬üòýÿÿÿÿ8…´Ù¡û1J$5d0b6257-29a0-41f9-b5fb-59cd6a451fd2
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì­ŠÜúÿÿÿÿ8ƒ´Ù¡û1J$1b036a1d-783a-4ec1-9ad5-7d3dc39a24fe
+r	java:S106"+Replace this use of System.out by a logger.(ÿ¬üòýÿÿÿÿ8…´Ù¡û1J$5fdaf2d6-a7f0-426e-a5fa-8016d9c7f863

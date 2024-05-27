@@ -15,3 +15,5 @@ V
 .src/main/org/ch2/RuntimeConstantPoolOOM_1.java,a/b/ab08d791c19a539ebc741ca75139fd14693af034
 <
 JVMStudy.iml,c/f/cfacebf4c749d8f0291a9adf8b8031fd1406832b
+U
+%src/main/org/ch2/DirectMemoryOOM.java,4/d/4d120270e5ddc19e3255b01b38f12b0be22c063a
